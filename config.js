@@ -11,9 +11,9 @@
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
 
-gc1 = ''
-gc2 = ''
-gc3 = ''
+gc1 = 'https://chat.whatsapp.com/DKfsblwOCTRBa9rrAmI7JA'
+gc2 = 'https://chat.whatsapp.com/DNwWhJ6Ub9dLfd5onyOTtw'
+gc3 = 'https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y'
 global.linkGC = ['https://chat.whatsapp.com/DKfsblwOCTRBa9rrAmI7JA', ''] // ganti jadi group lu
 global.owner = ['6282287750102','6285799743965'] // Put your number here //owner eval
 global.kontak = ['6282287750102','6285799743965'] //Ketika ada yang ngetik #owner
@@ -53,12 +53,12 @@ namakontak2 = 'Alpin'
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By Hanzz' // ganti aja
-global.author = 'Hanzz' // ganti aja
+global.packname = 'By Alpin' // ganti aja
+global.author = 'Alpin' // ganti aja
 
 //yyy
-bc = 'AlpinHani' //AlpinHani Broadcast
-footer = '\n©AlpinHani'
+bc = 'Alpin:v' //Alpingans Broadcast
+footer = '\n©Alpingans:v'
 namabot = 'AlpinHani'
 namalu = 'Alpin'
 
