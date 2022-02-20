@@ -626,7 +626,7 @@ END:VCARD
 `.trim()
     }]
   }, MessageType.contactsArray, { quoted: m })
-m.reply('Ada Perlu apa kak nyari Owner??')
+m.reply('Itu kak owner ku >_<')
 }
 handler.help = ['owner', 'creator']
 handler.tags = ['info']
